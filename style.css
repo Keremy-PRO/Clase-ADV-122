@@ -1,0 +1,20 @@
+body
+{
+  text-align:center;
+  background-color: #10e9f2;
+  background-image:-gradient(600-deg, #23797c 40%, #0e57aa 70%, #0acee2 56%);
+}
+canvas
+{
+  background-color:red;
+  border-radius:25;
+}
+span
+{
+  font-size:25px;
+  color:#23797c;
+}
+.draw
+{
+  color:aqua
+}
